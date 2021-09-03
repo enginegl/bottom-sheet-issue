@@ -3,6 +3,8 @@ Project demonstrates BottomSheet issue that was introduced in Material Component
 
 https://github.com/material-components/material-components-android/releases/tag/1.4.0
 
+Issue: https://github.com/material-components/material-components-android/issues/2358
+
 # WTR
 1. Rotate device to landscape (screen width should be more than 640dp – see `material_bottom_sheet_max_width` dimen from material-components resources).
 2. Press the button
